@@ -138,6 +138,9 @@ form button:hover {
   display: block;
   width: 40px;
   height: 40px;
+  line-height: 60px;
+  text-align: center;
+  border-radius: 40px;
   background-color: rgba(255, 255, 255, 0.15);
   bottom: -160px;
   -webkit-animation: square 30s infinite;
